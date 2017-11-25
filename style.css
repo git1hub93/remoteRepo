@@ -1,0 +1,68 @@
+.img-class
+{
+    height:100%;
+    min-height:100%;
+    width:100%;
+    min-width: 100%;
+    opacity:0.2;
+}
+.img-col
+{
+    padding-right:0;
+    padding-left:0;
+    border-right:1px solid black;
+}
+.ico
+{
+    color:limegreen;
+    position: absolute; 
+    top: 45%; 
+    left:5%;
+}
+.cap
+{
+   color:limegreen;
+   position: absolute;  
+   font-weight:bold;   
+   top: 59%;
+   left:5%;
+}
+.para
+{
+    position: absolute;  
+    text-align:left;
+    top: 48%;
+    left:5%;
+    right:5%;
+    display:none;
+    color:darkslategray;
+    font-weight:bold;
+}
+.but
+{
+    position: absolute;  
+    top: 80%;
+    left:5%;
+    display:none;
+    color:darkslategray;
+    font-weight:bold;
+}
+.tint
+{
+    position: relative;
+    background-color:darkslategray;
+}
+.modal-content
+{
+     background-color:black !important;
+}
+.modal-title
+{
+    color:white !important;
+}
+.modal-body p
+{
+     color:white !important;
+     padding-top:3%;
+     text-align:justify;
+}
